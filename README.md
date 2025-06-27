@@ -104,7 +104,7 @@ Resumen inteligente de PDFs o artículos/
 
 Para usar Google Gemini AI:
 
-1. Visita [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. Visita [Google AI Studio](https://aistudio.google.com/apikey)
 2. Crea una API key
 3. Crear archivo `.env` en la carpeta backend y agregar:
    ```env
