@@ -12,6 +12,9 @@ Un resumidor inteligente de PDFs utilizando IA (Google Gemini) con una interfaz 
 - 📱 **Responsive**: Funciona perfectamente en desktop y móvil
 - ⚡ **Tiempo Real**: Procesamiento rápido con indicadores de carga
 
+![image](https://github.com/user-attachments/assets/db28926e-98a5-463e-8ae7-d3a47ef001d3)
+
+
 ## 🏗️ Estructura del Proyecto
 
 ```
