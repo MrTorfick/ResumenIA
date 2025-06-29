@@ -12,6 +12,9 @@ Un resumidor inteligente de PDFs utilizando IA (Google Gemini) con una interfaz 
 - 📱 **Responsive**: Funciona perfectamente en desktop y móvil
 - ⚡ **Tiempo Real**: Procesamiento rápido con indicadores de carga
 
+![image](https://github.com/user-attachments/assets/db28926e-98a5-463e-8ae7-d3a47ef001d3)
+
+
 ## 🏗️ Estructura del Proyecto
 
 ```
@@ -76,7 +79,7 @@ Resumen inteligente de PDFs o artículos/
    ```bash
    npm run dev
    ```
-   La aplicación estará disponible en `http://localhost:5173`
+   La aplicación estará disponible en `http://localhost:{puerto}`
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -104,7 +107,7 @@ Resumen inteligente de PDFs o artículos/
 
 Para usar Google Gemini AI:
 
-1. Visita [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. Visita [Google AI Studio](https://aistudio.google.com/apikey)
 2. Crea una API key
 3. Crear archivo `.env` en la carpeta backend y agregar:
    ```env
