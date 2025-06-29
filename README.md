@@ -21,8 +21,10 @@ Un resumidor inteligente de PDFs utilizando IA (Google Gemini) con una interfaz 
 Resumen inteligente de PDFs o artículos/
 ├── backend/                # Servidor Flask (Python)
 │   ├── app.py             # Aplicación principal
+│   ├── requirements.txt   # Dependencias Python
 │   ├── .env.example       # Variables de entorno
 │   └── README.md         # Documentación del backend
+│   
 ├── frontend/             # Cliente React
 │   ├── src/
 │   │   ├── App.jsx      # Componente principal
